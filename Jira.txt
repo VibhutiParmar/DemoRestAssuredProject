@@ -1,0 +1,4 @@
+Hello
+This file is for Automation testing.
+And we are going to attach this file by REST APT automation.
+!!!...Have Fun...!!!
